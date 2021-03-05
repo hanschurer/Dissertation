@@ -1,2 +1,4 @@
 # 300COM Final Project
- Final Project For Informatics
+ Final Year Project For Informatics
+
+“Can simulator-based datasets replace real-life datasets in convolutional neural network base on billboard detection?”
